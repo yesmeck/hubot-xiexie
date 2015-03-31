@@ -1,24 +1,24 @@
-# hubot-thank-you
+# hubot-xiexie
 
-A hubot script that accepts your thanks
+A hubot script that accepts your 谢谢
 
-See [`src/thank-you.coffee`](src/thank-you.coffee) for full documentation.
+See [`src/xiexie.coffee`](src/xiexie.coffee) for full documentation.
 
 ## Installation
 
 In hubot project repo, run:
 
-`npm install hubot-thank-you --save`
+`npm install hubot-xiexie --save`
 
-Then add **hubot-thank-you** to your `external-scripts.json`:
+Then add **hubot-xiexie** to your `external-scripts.json`:
 
 ```json
-["hubot-thank-you"]
+["hubot-xiexie"]
 ```
 
 ## Sample Interaction
 
 ```
-user1>> hubot thank you
-hubot>> don’t mention it
+user1>> hubot 谢谢
+hubot>> 不用谢
 ```

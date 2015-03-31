@@ -1,8 +1,8 @@
 {
-  "name": "hubot-thank-you",
-  "description": "A hubot script that accepts thanks",
+  "name": "hubot-xiexie",
+  "description": "A hubot script that accepts 谢谢",
   "version": "0.0.3",
-  "author": "Lucas Videla <videla.lucas@gmail.com>",
+  "author": "Wei Zhu <yesmeck@gmail.com>",
   "license": "MIT",
   "keywords": [
     "hubot",
@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-thank-you.git"
+    "url": "git://github.com/yesmeck/hubot-xiexie.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-thank-you/issues"
+    "url": "https://github.com/yesmeck/hubot-xiexie/issues"
   },
   "dependencies": {
     "coffee-script": "~1.6"
