@@ -1,7 +1,7 @@
 {
   "name": "hubot-xiexie",
   "description": "A hubot script that accepts 谢谢",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "Wei Zhu <yesmeck@gmail.com>",
   "license": "MIT",
   "keywords": [
